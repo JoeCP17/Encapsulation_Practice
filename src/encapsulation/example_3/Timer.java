@@ -1,4 +1,4 @@
-package example_3;
+package encapsulation.example_3;
 
 import java.util.concurrent.TimeUnit;
 

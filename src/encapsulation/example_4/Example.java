@@ -1,4 +1,4 @@
-package example_4;
+package encapsulation.example_4;
 
 public class Example {
 
